@@ -17,23 +17,27 @@ h2 {
   font-size: 48px;
   color:  #3D3D3D;
   text-align: left;
+  padding-left: 15px;
 }
 /* BONUS HOVER & SPREAD */
 h2:hover {
 letter-spacing: 25px;
 }
 
-section {
+#two {
   border-bottom: 10px solid #BDC3C7;
-  
+  width: 95%;
 }
 
 #date {
   color: #3498DB;
   text-transform:uppercase;
 }
-p:not(:last-child){
-  border-bottom: 5px solid #BDC3C7;
-  
+#one {
+  border-bottom: 4px solid #BDC3C7;
+  width: 95%;
 }
 /* BONUS TERRITORY */
+hr {
+  
+}
